@@ -1,0 +1,11 @@
+[Desktop Entry]
+
+Name=Matlab
+StartupWMClass=MATLAB R2020b - student use
+Comment=Matlab
+Exec=matlab
+Icon=/usr/local/MATLAB/R2020b/bin/glnxa64/cef_resources/matlab_icon.png
+Categories=Math;Education
+Terminal=true
+Type=Application
+
