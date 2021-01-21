@@ -5,5 +5,5 @@ You'll need to the change the StartupWMClass value to whatever the terminal comm
 
             xprop WM_CLASS
             
-gives you when you click on Matlab yourself.
+gives you when you click on theMatlab window yourself.
 Paste it in /usr/share/applications and you're good!
